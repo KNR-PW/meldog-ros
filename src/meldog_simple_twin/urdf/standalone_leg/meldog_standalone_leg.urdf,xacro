@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<robot name="meldog_standalone_leg" xmlns:xacro="http://www.ros.org/wiki/xacro">
+    
+    <xacro:include filename="properties.urdf.xacro" />
+
+    <link name="leg_body_link">
+        
+    </link>
+
+    <link name="upper_limb_link">
+
+    </link>
+
+    <link name="lower_limb_link">
+
+    </link>
+
+    <link name="foot_link">
+
+    </link>
+
+    
+</robot>
