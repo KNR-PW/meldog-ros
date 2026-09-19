@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 <robot xmlns:xacro="http://www.ros.org/wiki/xacro">
 
-
     <gazebo reference = "LFF_link">
       <sensor name = 'LFF_contact' type = 'contact'>
         <contact>
@@ -45,5 +44,4 @@
           <update_rate>200</update_rate>
       </sensor>
     </gazebo>
-
 </robot>
