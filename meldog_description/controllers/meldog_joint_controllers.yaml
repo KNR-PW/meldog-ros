@@ -167,62 +167,62 @@ joint_controller:
 
     pid_gains:
       LFT_joint:
-        p: 120.0
-        d: 1.25
+        p: 80.0
+        d: 2.5
         i: 0.0
         ilimit: 0.0
       LFH_joint:
-        p: 120.0
-        d: 1.25
+        p: 110.0
+        d: 3.5
         i: 0.0
         ilimit: 0.0
       LFK_joint:
-        p: 120.0
-        d: 1.25
-        i: 5.0
+        p: 130.0
+        d: 4.5
+        i: 0.0
         ilimit: 0.0
       RFT_joint:
-        p: 120.0
-        d: 1.25
+        p: 80.0
+        d: 2.5
         i: 0.0
         ilimit: 0.0
       RFH_joint:
-        p: 120.0
-        d: 1.25
+        p: 110.0
+        d: 3.5
         i: 0.0
         ilimit: 0.0
       RFK_joint:
-        p: 120.0
-        d: 1.25
+        p: 130.0
+        d: 4.5
         i: 0.0
         ilimit: 0.0
       LRT_joint:
-        p: 120.0
-        d: 1.25
+        p: 80.0
+        d: 2.5
         i: 0.0
         ilimit: 0.0
       LRH_joint:
-        p: 120.0
-        d: 1.25
+        p: 110.0
+        d: 3.5
         i: 0.0
         ilimit: 0.0
       LRK_joint:
-        p: 120.0
-        d: 1.25
+        p: 130.0
+        d: 4.5
         i: 0.0
         ilimit: 0.0
       RRT_joint:
-        p: 120.0
-        d: 1.25
+        p: 80.0
+        d: 2.5
         i: 0.0
         ilimit: 0.0
       RRH_joint:
-        p: 120.0
-        d: 1.25
+        p: 110.0
+        d: 3.5
         i: 0.0
         ilimit: 0.0
       RRK_joint:
-        p: 120.0
-        d: 1.25
+        p: 130.0
+        d: 4.5
         i: 0.0
         ilimit: 0.0
